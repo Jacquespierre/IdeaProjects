@@ -80,31 +80,3 @@ public class Ejercicio5 {
         System.out.println("El resultado de la operación es: " + resultado);
     }
 }
-import com.ricardogeek.ExcepcionNumeroNegativo;
-        import com.ricardogeek.ExcepcionDivisionPorCero;
-
-public class ExcepcionNumeroNegativo {
-
-    public int suma(int x, int y) throws ExcepcionNumeroNegativo {
-        if(x < 0 || y < 0) {
-            throw new ExcepcionNumeroNegativo();
-        }
-
-        return x + y;
-    }
-
-    public int multiplica(int x, int y) throws ExcepcionNumeroNegativo {
-        if(x < 0 || y < 0) {
-            throw new ExcepcionNumeroNegativo();
-        }
-
-        return x * y;
-    }
-
-    public int divide(int x, int y) throws ExcepcionDivisionPorCero {
-        if(y == 0) {
-            throw new ExcepcionDivisionPorCero();
-        }
-        return x / y;
-    }
-}
