@@ -1,0 +1,9 @@
+
+z
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(κΡϋÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(±ιΛ¨ωÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(πττ†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ςθ²–ύÿÿÿÿ
+V
+java:S1126"AReplace this if-then-else statement by a single return statement.(¶”0
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(―§εν

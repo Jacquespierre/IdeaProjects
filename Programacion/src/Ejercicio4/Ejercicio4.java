@@ -31,7 +31,7 @@ public class Ejercicio4 {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         double resultado = 0;
-        int n1,n2;
+        int n1, n2;
         System.out.println("Introduzca el primer número:");
 
         try {

@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee1768ea-30a6-4722-9b30-887e811b0d99" name="Changes" comment="" />
+    <list default="true" id="ee1768ea-30a6-4722-9b30-887e811b0d99" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAgenda/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAgenda/Contacto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAgenda/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAlmacen/AguaMineral.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAlmacen/Almacen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAlmacen/Bebida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAlmacen/BebidaAzucarada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayAlmacen/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayCadenasDeTexto/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayCadenasDeTexto/cadenasDeTexto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayListSeriesVideojuegos/Entregable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayListSeriesVideojuegos/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayListSeriesVideojuegos/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/EjercicioArrayListSeriesVideojuegos/Videojuego.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio4/Ejercicio4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ejercicio4/Ejercicio4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ejercicio7/Ejercicio4Libro.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +31,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="25QtDIJsISQCQtj3GQGJNxi6b6E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,10 +99,22 @@
       <workItem from="1645471159352" duration="206000" />
       <workItem from="1645471384969" duration="239000" />
       <workItem from="1645471785719" duration="3613000" />
+      <workItem from="1647376925246" duration="44000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
